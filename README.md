@@ -206,6 +206,4 @@ for images, labels in test_loader:
     plt.show()
 ```
 
-### Note
-Some code snippets may require minor adjustments to function correctly.
 
